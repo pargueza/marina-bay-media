@@ -15,9 +15,9 @@ Today, James and Nadine explored gyokuro, a rare and contemplative Japanese gree
 
 Price is not always a reliable measure of pleasure, so James set up a blind tasting to let the teas speak for themselves. Each was brewed in short steeps of 30 to 40 seconds, allowing the full character of the leaf to unfold gradually.
 
-James found himself drawn to the second steep of each tea, while Nadine favored the third, where the flavors softened into something quieter and more contemplative. The first steep, as always, was the most aromatic.
+We took careful notes on each pour, observing color, texture, and mouthfeel from the very first impression. James found himself drawn to the second steep of each tea, while Nadine favored the third, where the flavors softened. 
 
-We took careful notes on each pour, observing color, texture, and mouthfeel from the very first impression. By the fourth steep, a clear favorite had emerged: jade green Gyokuro Syuppin. 
+**By the fourth steep, a clear favorite had emerged: jade green Gyokuro Syuppin.** 
 
 Developed from unrefined aracha leaves and rich in tannins, it offered a noticeably smoother, distinctly algal mouthfeel. This competition-grade tea is produced by a family-owned factory with over 140 years of experience in the craft.
 
