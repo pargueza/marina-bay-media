@@ -5,7 +5,7 @@ title: Home
 
 We provide luxe tea experiences for sophisticated palates. Taste the difference, savor the experience.
 
-public/images/20260524-good-morning.png
+![](/images/20260524-good-morning.png)
 
 ## Our Mission:
 
