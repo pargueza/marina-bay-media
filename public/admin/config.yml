@@ -22,12 +22,14 @@ collections:
     label: "Pages"
     files:
       - label: "Home Page"
-        name: "index"
-        file: "src/pages/index.astro"
+        name: "home"
+        file: "src/content/pages/home.md"
         fields:
+          - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
       - label: "About Page"
         name: "about"
-        file: "src/pages/about.astro"
+        file: "src/content/pages/about.md"
         fields:
+          - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
