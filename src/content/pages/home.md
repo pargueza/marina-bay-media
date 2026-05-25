@@ -5,7 +5,7 @@ title: Home
 
 We provide luxe tea experiences for sophisticated palates. Taste the difference, savor the experience.
 
-![](/images/20260524-good-morning.png)
+![Tease logo](/images/20260524-tease-logo.png "We provide luxe tea experiences for sophisticated palates. Taste the difference, savor the experience.")
 
 ## Our Mission:
 
