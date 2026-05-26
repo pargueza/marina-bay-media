@@ -21,4 +21,4 @@ We are no-nonsense experts who obsess about the power of creativity. That means 
 
 Your business isn't run-of-the-mill, and your marketing shouldn't be either. Contact us for campaigns that move hearts and minds, not amateur slop. 
 
-### We can write, we can design, we can re-energize your content to be the best it can be.
+#### We can write, we can design, we can re-energize your marketing to be the best it can be.
