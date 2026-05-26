@@ -3,8 +3,10 @@ title: About
 ---
 ## About Marina Bay Media:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Nadine founded Marina Bay Media to help local business owners leverage the power of creative at a reasonable price. She has over a decade of experience helping enterprises scale campaigns, from single operators to distributed teams.
+
+**We specialize in mission-critical industries** such as education, financial services, food and wine, healthcare, nonprofits, political campaigns, startups, and technology.
 
 ## What We Do:
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Brand Strategy, **Campaign Strategy**, Canvassing, Community Outreach, **Content Creation**, Copywriting, **Email Marketing**, Event Marketing, **Google Ads / Paid Search**, Graphic Design, **Local SEO**, Performance Reporting / Analytics, **Public Relations**, Reputation Management, SMS Marketing, **Social Media**, Volunteer Coordination, **Website Design**
