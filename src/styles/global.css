@@ -7,8 +7,11 @@
 @import './tokens.css';
 
 :root {
-	--accent: #3D5A3E;      /* Sencha — primary accent */
-	--accent-dark: #2C3B2D; /* Deep Matcha — darker variant */
+	--accent:              #00855A;  /* Spanish Emerald — primary accent */
+	--accent-dark:         #006B3C;  /* Deep Emerald — darker variant */
+	--accent-teal:         #006874;  /* Teal — secondary accent */
+	--accent-teal-light:   #00939E;  /* Light Teal — hover states */
+
 	--black: 15, 18, 25;
 	--gray: 96, 115, 159;
 	--gray-light: 229, 233, 240;
