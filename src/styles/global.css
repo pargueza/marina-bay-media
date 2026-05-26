@@ -56,23 +56,24 @@ h6 {
 	line-height: 1.2;
 }
 h1 {
-	font-size: 3.052em;
+	font-size: 2.5em;
 }
 
 h2 {
-	font-size: 2.441em;
+	font-size: 2.25em;
 	color: var(--color-teal-deep);
 }
 
 h3 {
-	font-size: 1.953em;
+	font-size: 1.5em;
 }
 h4 {
-	font-size: 1.563em;
+	font-size: 1.5em;
 }
 h5 {
-	font-size: 1.25em;
+	font-size: 1.15em;
 }
+
 strong,
 b {
 	font-weight: 700;
