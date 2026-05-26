@@ -56,19 +56,19 @@ h6 {
 	line-height: 1.2;
 }
 h1 {
-	font-size: 2.5em;
+	font-size: 2.15em;
 }
 
 h2 {
-	font-size: 2.25em;
+	font-size: 2.15em;
 	color: var(--color-teal-deep);
 }
 
 h3 {
-	font-size: 1.5em;
+	font-size: 1.15em;
 }
 h4 {
-	font-size: 1.5em;
+	font-size: 1.15em;
 }
 h5 {
 	font-size: 1.15em;
