@@ -27,8 +27,8 @@
    ============================================ */
 
 :root {
-  --font-display: 'Playfair Display', Georgia, serif; /* headlines, logo, hero text, pull quotes */
-  --font-body:    'Jost', system-ui, sans-serif;      /* nav, body copy, labels, buttons, captions */
+  --font-display: 'Fraunces', Georgia, serif; /* headlines, logo, hero text, pull quotes */
+  --font-body:    'Inter', system-ui, sans-serif; /* nav, body copy, labels, buttons, captions */
 }
 
 /* Display — headlines, logo, hero text */
