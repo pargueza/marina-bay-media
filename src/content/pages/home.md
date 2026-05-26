@@ -19,6 +19,6 @@ Attention and care are the secret to winning in your market. You may be tempted 
 
 **We are no-nonsense experts who obsess about the power of creativity.** That means not simply repeating what's been done before, but charting new routes to success.
 
-Your business isn't run-of-the-mill, and your marketing shouldn't be either. Contact us for campaigns that move hearts and minds, not amateur slop. 
+**Your business isn't run-of-the-mill, and your marketing shouldn't be either.** Contact us for campaigns that move hearts and minds, not amateur slop. 
 
 #### We can write, we can design, we can re-energize your marketing to be the best it can be.
