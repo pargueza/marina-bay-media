@@ -7,7 +7,9 @@ Marina Bay Media is on a mission to help small businesses and entrepreneurs get 
 
 When you put people first, the results speak for themselves. Let us help you nurture leads, win that initial sale, and most importantly, cultivate a long-term relationship for years to come.
 
-## Our Mission: Helping You Make Waves
+## Our Mission
+
+### Helping You Make Waves
 
 Attention and care are the secret to winning in your market. You may be tempted to DIY or worse, outsource to a cheap but inexperienced contractor. Our agency has over a decade of experience in the crafts of communications, advertising, and marketing.
 
