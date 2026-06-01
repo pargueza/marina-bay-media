@@ -13,7 +13,7 @@ We have over 30 years of combined experience in integrated marketing, and we kno
 
 ## **Our Mission**
 
-Helping You Make Waves
+### Helping You Make Waves
 
 Attention and care are the secret to winning in your market. You may be tempted to DIY or worse, outsource to a cheap but inexperienced contractor. Our agency has over a decade of experience in the crafts of communications, advertising, and marketing.
 
@@ -25,6 +25,6 @@ We are no-nonsense experts who obsess about the power of creativity. That means 
 
 Your business isn’t run-of-the-mill, and your marketing shouldn’t be either. Contact us for campaigns that move hearts and minds, not amateur slop.
 
-We can write, we can design, we can re-energize your marketing to be the best it can be.
+#### We can write, we can design, we can re-energize your marketing to be the best it can be.
 
 ####
