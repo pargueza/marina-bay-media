@@ -100,6 +100,10 @@ input {
 table {
 	width: 100%;
 }
+
+.date {
+	display: none;
+}
 img {
 	max-width: 100%;
 	height: auto;
