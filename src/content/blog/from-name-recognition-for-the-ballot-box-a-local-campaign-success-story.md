@@ -11,7 +11,7 @@ A candidate for city council needed a full suite of services to maximize his cha
 
 ## **Solution**
 
-The agency served as a part-time campaign manager, leading digital strategy, content creation, and online presence across the campaign's website and social media channels.
+I served as a part-time campaign manager, leading digital strategy, content creation, and online presence across the campaign's website and social media channels.
 
 I began with a full site redesign, including copywriting, visual identity, and generating a consistent content calendar. Further, I oversaw the campaign's social media presence, managing Meta (Facebook, Instagram, Threads), as well as LinkedIn and Nextdoor. Through compelling graphics, short-form videos, and detailed blogs, I educated local voters on the candidate's merits and accomplishments.
 
