@@ -24,3 +24,11 @@ Messaging was crafted to reflect the candidate's progressive values. Content was
 Beyond digital, I provided full strategic and operational support across communications, voter outreach, and team coordination. This included drafting press releases, talking points, and campaign copy, as well as coordinating volunteers for canvassing, phone banking, and tabling. I set up project management systems to keep the team aligned through weekly check-ins and clear accountability structures. 
 
 Through these combined efforts, I helped build a visible, community-connected campaign presence throughout a competitive local race.
+
+## Campaign Results
+
+From November of the previous year to the June primary election, the campaign had explosive growth across all channels, with total users up 2,792%, sessions up 2,880%, and nearly all traffic from new users.
+
+### Reaching Fresh Audiences
+
+Organic social was the clear winner, driving over 20,000% more users and 22,678% more sessions. Direct traffic was also solid at 773% user growth with highly engaged sessions. Email showed steady performance with 1,469% more users.
