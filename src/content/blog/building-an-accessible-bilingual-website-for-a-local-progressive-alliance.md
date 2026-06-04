@@ -7,7 +7,7 @@ description: A full-stack website redesign for a Bay Area progressive alliance,
 ---
 ## Solution
 
-![](/images/20260604-blog-banners-marina-bay-media-rpa.png)
+![I led a full-stack web development project to elevate a local progressive alliance's online presence to better connect with the community. I implemented a modern, user-friendly design with streamlined navigation, ensuring the website effectively showcased the alliance's mission, initiatives, and resources. To enhance accessibility, I optimized the site for SEO and integrated ADA-compliant features, along with a Spanish language option that broadened our reach. This included translating Spanish-language attachments specifically for pre-election voter education, making critical information accessible to a wider audience during an important election period.](/images/20260604-blog-banners-marina-bay-media-rpa.png)
 
 I led a full-stack web development project to elevate a local progressive alliance's online presence to better connect with the community. I implemented a modern, user-friendly design with streamlined navigation, ensuring the website effectively showcased the alliance's mission, initiatives, and resources. To enhance accessibility, I optimized the site for SEO and integrated ADA-compliant features, along with a Spanish language option that broadened our reach. This included translating Spanish-language attachments specifically for pre-election voter education, making critical information accessible to a wider audience during an important election period.
 
