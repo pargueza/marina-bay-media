@@ -21,7 +21,7 @@ Contact us today for best practices on nurturing leads, winning the sale, and mo
 
 Attention and care are the secret to winning. You may be tempted to DIY or worse, outsource to a cheap but inexperienced contractor. Our agency has over a decade of experience in the crafts of communications, advertising, and marketing.
 
-### The biggest mistake you can make is underestimating the time it takes to run a campaign. As a business owner, you shouldn’t be worrying about minor details. Bring your big, bold vision and let us take care of the rest.
+#### The biggest mistake you can make is underestimating the time it takes to run a campaign. As a business owner, you shouldn’t be worrying about minor details. Bring your big, bold vision and let us take care of the rest.
 
 ## The Marina Bay Media Promise
 
@@ -29,4 +29,4 @@ We are no-nonsense experts who obsess about the power of creativity. That means 
 
 Your business isn’t run-of-the-mill, and your marketing shouldn’t be either. Contact us for campaigns that move hearts and minds, not amateur slop.
 
-### We can write, we can design, we can re-energize your marketing to be the best it can be.
+#### We can write, we can design, we can re-energize your marketing to be the best it can be.
