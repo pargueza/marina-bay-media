@@ -5,7 +5,7 @@ title: About
 
 Marina Bay Media was founded to help local business owners leverage the power of creative at a reasonable price. She has over a decade of experience helping enterprises scale campaigns, from single operators to distributed teams.
 
-We specialize in mission-critical industries such as education, financial services, food and wine, healthcare, nonprofits, political campaigns, startups, and technology.
+**We specialize in mission-critical industries such as education, financial services, food and wine, healthcare, nonprofits, political campaigns, startups, and technology.**
 
 ## What We Do:
 
