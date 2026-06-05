@@ -1,5 +1,5 @@
 ---
-title: "From Name Recognition for the Ballot Box: A Local Campaign Success Story"
+title: From Name Recognition for the Ballot Box
 pubDate: 2026-06-01T14:17:00.000-07:00
 description: How one city council candidate overcame limited name recognition
   and won over a moderate voter base through a full-service digital strategy,
