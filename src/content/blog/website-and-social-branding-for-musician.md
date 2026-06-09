@@ -1,6 +1,6 @@
 ---
 title: Website and Social Branding for Musician
-pubDate: 2026-06-04T19:57:00.000-07:00
+pubDate: 2026-06-06T19:57:00.000-07:00
 description: I led a full-scale digital branding project to elevate the online
   presence of singer Maddy Hudson, an American Idol hopeful, by creating a
   modern, visually striking website that showcased her artistry and career
