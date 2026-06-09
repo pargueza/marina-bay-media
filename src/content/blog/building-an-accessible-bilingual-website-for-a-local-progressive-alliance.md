@@ -14,3 +14,7 @@ I led a full-stack web development project to elevate a local progressive allian
 To enhance accessibility, I optimized the site for SEO and integrated ADA-compliant features, along with a Spanish language option that broadened our reach. This included translating Spanish-language attachments specifically for pre-election voter education, making critical information accessible to a wider audience during an important election period.
 
 I collaborated closely with the alliance's leadership to align the website's content with our messaging and objectives, handling both front-end and back-end development to support secure hosting, data protection, and smooth functionality. I also set up performance monitoring and leveraged analytics to understand engagement patterns, which helped the alliance refine outreach strategies based on community interaction. Through these efforts, I significantly strengthened the alliance's digital presence, making it easier to connect with constituents and amplifying our impact on local voter education and community engagement.
+
+![](/images/2024-rpa-website-plan-timeline.png)
+
+![](/images/2024-rpa-website-plan-sitemap.png)
