@@ -21,6 +21,8 @@ I built a full Event Planning and Communications Packet from the ground up, incl
 
 Candidate coordination included drafting all outreach communications. These included availability emails, bio requests, and a Candidate Questionnaire on vision and mission for Richmond, ensuring all 10 candidates across the Mayoral and Council District 3 and 4 races were informed and prepared.
 
+![](/images/all-candidates-v1.png)
+
 ### Community Outreach
 
 For media and community outreach I drafted a press release, a targeted press pitch offering journalist access and candidate interviews, and a community questionnaire that opened the floor to Richmond residents to submit questions ahead of the forum. Messaging was grounded in kitchen-table issues relevant to the communities in Districts 3 and 4.
@@ -28,6 +30,8 @@ For media and community outreach I drafted a press release, a targeted press pit
 ### Structural Support
 
 Beyond content, I managed all event-day operations, from coordinating volunteers, overseeing A/V setup, and serving as timekeeper during the forum, to liaising with press. I designed a run-of-show for the full two-hour program and led post-event follow-up including thank-you communications to candidates and press, and distribution of the event recording and recap.
+
+![](/images/3-days-left-submit-your-questions.png)
 
 ## Campaign Results
 
