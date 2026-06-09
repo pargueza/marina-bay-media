@@ -7,7 +7,7 @@ description: How one city council candidate overcame limited name recognition
 ---
 ## Problem
 
-![Jamin Pursell for Richmond City Council 2026](/images/20260604-blog-banners-marina-bay-media-jamin-pursell-for-richmond-city-council-2026.png)
+![Jamin Pursell for Richmond City Council 2026](/images/20260609-blog-banners-marina-bay-media-jamin-pursell-for-richmond-city-council-2026-social-post-sample.png)
 
 A candidate for city council needed a full suite of services to maximize his chances of winning at the ballot box during the primary election. Core challenges included limited name recognition and previous difficulties resonating with the sensibilities of a decidedly more moderate voting base. The candidate had limited engagement across print, web, and social media as well, and was curious about the best mix of channels to reach the target voter base.
 
