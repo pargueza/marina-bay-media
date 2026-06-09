@@ -8,7 +8,9 @@ description: A wine distribution startup went from zero digital presence to
 ---
 ## Problem
 
-Two first-time entrepreneurs launched a wine distribution startup and sought assistance with an integrated communications plan to gain visibility in the crowded California wine market. The team lacked assets for their first round of digital and in-person outreach, as well as training on the best mix of tools to achieve their goals. They had been experimenting with basic social media outreach but had not experienced any tangible success.
+**Two first-time entrepreneurs launched a wine distribution startup and sought assistance with an integrated communications plan to gain visibility in the crowded California wine market.** The team lacked assets for their first round of digital and in-person outreach, as well as training on the best mix of tools to achieve their goals. They had been experimenting with basic social media outreach but had not experienced any tangible success.
+
+![A wine distribution startup went from zero digital presence to media coverage, increased social engagement, and wholesale accounts across the Bay Area through an integrated web, social media, and public relations strategy.](/images/20260609-blog-banners-marina-bay-media-pierreclos-imports.png)
 
 ## Solution
 
