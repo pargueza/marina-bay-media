@@ -20,6 +20,6 @@ As small producers themselves, the company was interested in communicating in a 
 
 ## Results
 
-Within the first month of public relations outreach, I secured media coverage on a high-profile food and wine publication, hailing the company's mission of sourcing rare wines from a unique and untapped region. Other media opportunities secured included travel magazines and in-person sampling events.
+**Within the first month of public relations outreach, I secured media coverage on a high-profile food and wine publication, hailing the company's mission of sourcing rare wines from a unique and untapped region. Other media opportunities secured included travel magazines and in-person sampling events.**
 
 The company's social media engagement also improved, with increased engagement and sales activity, direct to consumer and wholesale. Today, the company boasts over a dozen featured wineries and can be found in prominent Bay Area restaurants and retailers.
