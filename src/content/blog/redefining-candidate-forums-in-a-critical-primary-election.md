@@ -1,6 +1,6 @@
 ---
 title: Redefining Candidate Forums in a Critical Primary Election
-pubDate: 2026-06-04T14:42:00.000-07:00
+pubDate: 2026-06-05T14:42:00.000-07:00
 description: As Event Lead and Communications Manager for 1 Hundred Years
   Enterprise Foundation, I designed and executed Richmond's first community-led
   candidate forum for the June 2026 primary — coordinating 10 candidates,
