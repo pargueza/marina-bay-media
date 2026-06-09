@@ -17,4 +17,8 @@ End-to-end event planning and execution included securing eight sponsors: LegalZ
 
 The campaign's content and communications strategy framed financial literacy as a community issue and positioned Ethos as a brand that understood women's evolving role in the economy. Pre-event outreach spanned email, social media, and community partnerships, building awareness and driving registration across the Bay Area.
 
+![](/images/20260609-blog-ethos-life-why-money-management-matters-for-women.png)
+
+## Results
+
 **Speed Sipping became Ethos's top-performing growth marketing campaign of the year, demonstrating that experiential marketing rooted in genuine community need could drive both brand affinity and measurable business results.** The event established a replicable model for future activations and strengthened Ethos's positioning as a life insurance brand built for modern women and families.
