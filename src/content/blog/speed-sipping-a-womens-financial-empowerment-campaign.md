@@ -1,6 +1,6 @@
 ---
 title: "Speed Sipping: A Women's Financial Empowerment Campaign"
-pubDate: 2026-06-09T13:19:00.000-07:00
+pubDate: 2026-06-09T13:42:00.000-07:00
 description: How Ethos brought 150+ women together with financial advisors,
   sponsors, and founders to tackle the gender wealth gap through
   community-driven experiential marketing.
