@@ -9,7 +9,7 @@ description: As Event Lead and Communications Manager for 1 Hundred Years
 ---
 ## Problem
 
-A BIPOC-led nonprofit organization, sought to organize its first nonpartisan mayoral and city council candidate forum in Richmond ahead of the June 2, 2026 Statewide Direct Primary Election. The organization needed a comprehensive communications and event management strategy while working with limited staffing and no prior experience conducting press outreach at this scale.
+A BIPOC-led nonprofit organization, sought to organize its first nonpartisan mayoral and city council candidate forum in Richmond ahead of a Statewide Direct Primary Election. The organization needed a comprehensive communications and event management strategy while working with limited staffing and no prior experience conducting press outreach at this scale.
 
 ![As Event Lead and Communications Manager for 1 Hundred Years Enterprise Foundation, I designed and executed Richmond's first community-led candidate forum for the June 2026 primary — coordinating 10 candidates, driving 100+ attendees, and pioneering a live audience question format that other organizations adopted.](/images/20260604-blog-banners-marina-bay-media-1hye-candidate-forum.png)
 
