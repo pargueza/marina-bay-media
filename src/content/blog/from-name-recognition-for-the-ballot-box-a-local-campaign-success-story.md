@@ -1,6 +1,6 @@
 ---
 title: From Name Recognition for the Ballot Box
-pubDate: 2026-06-01T14:17:00.000-07:00
+pubDate: 2026-06-07T14:17:00.000-07:00
 description: How one city council candidate overcame limited name recognition
   and won over a moderate voter base through a full-service digital strategy,
   from website redesign to social media to grassroots field coordination.
