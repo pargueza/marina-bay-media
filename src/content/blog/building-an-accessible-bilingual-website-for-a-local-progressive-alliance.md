@@ -1,6 +1,6 @@
 ---
 title: Building an Accessible, Bilingual Website for a Local Progressive Alliance
-pubDate: 2026-06-01T14:34:00.000-07:00
+pubDate: 2026-06-08T13:42:00.000-07:00
 description: A full-stack website redesign for a Bay Area progressive alliance,
   featuring ADA compliance, Spanish-language accessibility, SEO optimization,
   and analytics to strengthen community outreach and voter education.
