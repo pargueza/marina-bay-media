@@ -101,6 +101,20 @@ table {
 	width: 100%;
 }
 
+/* LOGO STYLES */
+.logo {
+  display: flex;
+  align-items: center;
+  padding: 0;
+}
+
+.logo img {
+  display: block;
+  width: clamp(48px, 8vw, 90px);
+  height: auto;
+  max-width: 100%;
+}
+
 /* Remove date from blogs */
 .date {
 	display: none;
