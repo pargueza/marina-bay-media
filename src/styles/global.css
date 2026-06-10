@@ -122,19 +122,19 @@ table {
 
 .footer-logo {
   display: flex;
-  align-items: center;
+  align-items: center !important;
   padding: 0;
 }
 
 .footer-logo img {
   display: block;
-  width: 12em;
+  width: 20em;
   height: auto;
 }
 
 @media (max-width: 720px) {
   .footer-logo img {
-    width: 5em;
+    width: 10em;
   }
 }
 
