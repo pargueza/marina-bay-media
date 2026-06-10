@@ -110,7 +110,7 @@ table {
 
 .logo img {
   display: block;
-  width: 9em; /* ~3x larger than a typical 3em logo */
+  width: 14em;
   height: auto;
 }
 
