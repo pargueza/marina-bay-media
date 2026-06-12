@@ -17,6 +17,32 @@ const { Content } = about ? await render(about) : { Content: null };
     <Header />
     <main>
       {Content && <Content />}
+      <!-- Row: Full Width Row -->
+      <div style="width: 100vw; margin-left: calc(-50vw + 50%); padding: 1em; text-align: center;">
+        <h1>About Marina Bay Media:</h1>
+        <p>
+          Marina Bay Media was founded to help local business owners leverage the power of creative at a reasonable price.
+          <br>We have over a decade of experience helping enterprises scale campaigns, from single operators to distributed teams.
+        </p>
+        <p>
+          <b>We specialize in mission-critical industries such as education, financial services, food and wine, healthcare, nonprofits, political campaigns, startups, and technology.</b>
+        </p>
+      </div>
+
+      <!-- Row: Full Width Row -->
+      <div style="width: 100vw; margin-left: calc(-50vw + 50%); background-color: var(--color-teal-deep); color: var(--color-parchment); padding: 1em; text-align: center;">
+        <h2 style="color: var(--color-parchment);">What We Do:</h2>
+        <p>
+          Brand Strategy, Campaign Strategy, Canvassing, Community Outreach, Content Creation, Copywriting, Email Marketing, Event Marketing, Google Ads / Paid Search, Graphic Design, Local SEO, Performance Reporting / Analytics, Public Relations, Reputation Management, SMS Marketing, Social Media, Volunteer Coordination, Website Design
+        </p>
+        <h2 style="color: var(--color-parchment);">Our Team:</h2>
+        <ul>
+          <li>Nadine: Founder</li>
+          <li>Anna: Head of Partnerships</li>
+          <li>San: Designer</li>
+        </ul>
+      </div>
+
     </main>
     <Footer />
   </body>
