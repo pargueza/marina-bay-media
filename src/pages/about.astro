@@ -13,78 +13,50 @@ const { Content } = about ? await render(about) : { Content: null };
   <head>
     <BaseHead title="About" description="About Marina Bay Media" />
   </head>
-
   <body>
     <Header />
-
     <main>
-
-      <!-- ABOUT HERO -->
-      <div class="w-full text-center px-6 py-10">
-        <h1 class="text-2xl font-semibold mb-4">About Marina Bay Media:</h1>
-
-        <p class="max-w-3xl mx-auto mb-4">
+      <!-- Row: Full Width Row -->
+      <div style="width: 100vw; margin-left: calc(-50vw + 50%); padding: 1em; text-align: center;">
+        <h1>About Marina Bay Media:</h1>
+        <p>
           Marina Bay Media was founded to help local business owners leverage the power of creative at a reasonable price.
-          <br />
-          We have over a decade of experience helping enterprises scale campaigns, from single operators to distributed teams.
+          <br>We have over a decade of experience helping enterprises scale campaigns, from single operators to distributed teams.
         </p>
-
-        <p class="max-w-3xl mx-auto font-semibold">
-          We specialize in mission-critical industries such as education, financial services, food and wine, healthcare, nonprofits, political campaigns, startups, and technology.
+        <p>
+          <b>We specialize in mission-critical industries such as education, financial services, food and wine, healthcare, nonprofits, political campaigns, startups, and technology.</b>
         </p>
       </div>
 
-      <!-- WHAT WE DO (RESTORED COLOR) -->
-      <div class="w-full text-center px-6 py-10 bg-[var(--color-teal-deep)] text-[var(--color-parchment)]">
-        <h2 class="text-xl mb-4">What We Do:</h2>
-
-        <p class="max-w-4xl mx-auto text-sm leading-relaxed">
-          Brand Strategy, Campaign Strategy, Canvassing, Community Outreach, Content Creation, Copywriting,
-          Email Marketing, Event Marketing, Google Ads / Paid Search, Graphic Design, Local SEO,
-          Performance Reporting / Analytics, Public Relations, Reputation Management, SMS Marketing,
-          Social Media, Volunteer Coordination, Website Design
+      <!-- Row: Full Width Row -->
+      <div style="width: 100vw; margin-left: calc(-50vw + 50%); background-color: var(--color-teal-deep); color: var(--color-parchment); padding: 1em; text-align: center;">
+        <h2 style="color: var(--color-parchment);">What We Do:</h2>
+        <p>
+          Brand Strategy, Campaign Strategy, Canvassing, Community Outreach, Content Creation, Copywriting, Email Marketing, Event Marketing, Google Ads / Paid Search, Graphic Design, Local SEO, Performance Reporting / Analytics, Public Relations, Reputation Management, SMS Marketing, Social Media, Volunteer Coordination, Website Design
         </p>
       </div>
+      
+      <!-- Row: Team Section -->
+      <div style="width: 100vw; margin-left: calc(-50vw + 50%); padding: 1em; text-align: center;">
+        <h2>Our Team</h2>
 
-      <!-- TEAM SECTION (FIXED GRID, NO 100vw BUG) -->
-      <div class="w-full text-center px-6 py-14">
-
-        <h2 class="text-xl mb-10">Our Team</h2>
-
-        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-10 max-w-5xl mx-auto">
-
-          <!-- Nadine -->
-          <div class="w-full max-w-[220px] mx-auto flex flex-col items-center text-center">
-            <div class="w-40 aspect-square bg-[var(--color-washi)] rounded-lg mb-3 flex items-center justify-center overflow-hidden">
-              <!-- icon -->
-            </div>
-            <h3 class="text-sm font-medium">Nadine</h3>
-            <p class="text-xs">Founder</p>
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 px-6 py-8 max-w-6xl mx-auto">
+          <div>
+            <h3>Nadine</h3>
+            <p>Founder</p>
           </div>
-
-          <!-- Anna -->
-          <div class="w-full max-w-[220px] mx-auto flex flex-col items-center text-center">
-            <div class="w-40 aspect-square bg-[var(--color-washi)] rounded-lg mb-3 flex items-center justify-center overflow-hidden">
-              <!-- icon -->
-            </div>
-            <h3 class="text-sm font-medium">Anna</h3>
-            <p class="text-xs">Head of Partnerships</p>
+          <div>
+            <h3>Anna</h3>
+            <p>Partnerships</p>
           </div>
-
-          <!-- San -->
-          <div class="w-full max-w-[220px] mx-auto flex flex-col items-center text-center">
-            <div class="w-40 aspect-square bg-[var(--color-washi)] rounded-lg mb-3 flex items-center justify-center overflow-hidden">
-              <!-- icon -->
-            </div>
-            <h3 class="text-sm font-medium">San</h3>
-            <p class="text-xs">Designer</p>
+          <div>
+            <h3>San</h3>
+            <p>Designer</p>
           </div>
-
         </div>
       </div>
 
     </main>
-
     <Footer />
   </body>
 </html>
