@@ -20,7 +20,7 @@ const { Content } = about ? await render(about) : { Content: null };
     <main>
 
       <!-- ABOUT HERO -->
-      <div class="w-full py-10 text-center px-6">
+      <div class="w-full text-center px-6 py-10">
         <h1 class="text-2xl font-semibold mb-4">About Marina Bay Media:</h1>
 
         <p class="max-w-3xl mx-auto mb-4">
@@ -34,8 +34,8 @@ const { Content } = about ? await render(about) : { Content: null };
         </p>
       </div>
 
-      <!-- WHAT WE DO -->
-      <div class="w-full py-10 text-center bg-[var(--color-teal-deep)] text-[var(--color-parchment)] px-6">
+      <!-- WHAT WE DO (RESTORED COLOR) -->
+      <div class="w-full text-center px-6 py-10 bg-[var(--color-teal-deep)] text-[var(--color-parchment)]">
         <h2 class="text-xl mb-4">What We Do:</h2>
 
         <p class="max-w-4xl mx-auto text-sm leading-relaxed">
@@ -46,8 +46,8 @@ const { Content } = about ? await render(about) : { Content: null };
         </p>
       </div>
 
-      <!-- TEAM SECTION -->
-      <div class="w-full py-14 text-center px-6">
+      <!-- TEAM SECTION (FIXED GRID, NO 100vw BUG) -->
+      <div class="w-full text-center px-6 py-14">
 
         <h2 class="text-xl mb-10">Our Team</h2>
 
@@ -55,29 +55,29 @@ const { Content } = about ? await render(about) : { Content: null };
 
           <!-- Nadine -->
           <div class="w-full max-w-[220px] mx-auto flex flex-col items-center text-center">
-            <div class="w-40 aspect-square bg-[var(--color-washi)] rounded-lg mb-3 flex items-center justify-center">
+            <div class="w-40 aspect-square bg-[var(--color-washi)] rounded-lg mb-3 flex items-center justify-center overflow-hidden">
               <!-- icon -->
             </div>
             <h3 class="text-sm font-medium">Nadine</h3>
-            <p class="text-xs opacity-70">Founder</p>
+            <p class="text-xs">Founder</p>
           </div>
 
           <!-- Anna -->
           <div class="w-full max-w-[220px] mx-auto flex flex-col items-center text-center">
-            <div class="w-40 aspect-square bg-[var(--color-washi)] rounded-lg mb-3 flex items-center justify-center">
+            <div class="w-40 aspect-square bg-[var(--color-washi)] rounded-lg mb-3 flex items-center justify-center overflow-hidden">
               <!-- icon -->
             </div>
             <h3 class="text-sm font-medium">Anna</h3>
-            <p class="text-xs opacity-70">Head of Partnerships</p>
+            <p class="text-xs">Head of Partnerships</p>
           </div>
 
           <!-- San -->
           <div class="w-full max-w-[220px] mx-auto flex flex-col items-center text-center">
-            <div class="w-40 aspect-square bg-[var(--color-washi)] rounded-lg mb-3 flex items-center justify-center">
+            <div class="w-40 aspect-square bg-[var(--color-washi)] rounded-lg mb-3 flex items-center justify-center overflow-hidden">
               <!-- icon -->
             </div>
             <h3 class="text-sm font-medium">San</h3>
-            <p class="text-xs opacity-70">Designer</p>
+            <p class="text-xs">Designer</p>
           </div>
 
         </div>
