@@ -41,7 +41,7 @@
   --box-shadow:
     0 2px 6px rgba(var(--gray), 25%),
     0 8px 24px rgba(var(--gray), 33%),
-    0 14px 32px rgba(var(--gray), 33%);
+    0 16px 32px rgba(var(--gray), 33%);
 }
 
 /* ============================================
@@ -83,7 +83,7 @@ body {
   word-wrap: break-word;
   overflow-wrap: break-word;
   color: rgb(var(--gray-dark));
-  font-size: 14px;
+  font-size: 16px;
   line-height: 1.7;
 }
 
@@ -143,7 +143,7 @@ pre > code {
    ============================================ */
 
 input {
-  font-size: 14px;
+  font-size: 16px;
 }
 
 table {
@@ -152,7 +152,7 @@ table {
 
 textarea {
   width: 100%;
-  font-size: 14px;
+  font-size: 16px;
 }
 
 /* ============================================
@@ -214,20 +214,20 @@ h6 {
 }
 
 h1 {
-  font-size: 1.25em;
+  font-size: 1.5em;
 }
 
 h2 {
-  font-size: 1.25em;
+  font-size: 1.5em;
   color: var(--color-teal-deep);
 }
 
 h3 {
-  font-size: 1.1em;
+  font-size: 1.25em;
 }
 
 h4 {
-  font-size: 1em;
+  font-size: 1.25em;
 }
 
 h5 {
@@ -277,7 +277,7 @@ a:hover {
 
 @media (max-width: 720px) {
   body {
-    font-size: 14px;
+    font-size: 16px;
   }
 
   main {
