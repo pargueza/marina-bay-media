@@ -17,8 +17,15 @@ const { Content } = home ? await render(home) : { Content: null };
   <body>
     <Header />
     <main>
+      <!-- Row: Full Width Row -->
+      <div style="width: 100vw; margin-left: calc(-50vw + 50%); background-color: var(--color-teal-deep); padding: 1em;">
+        <h1 style="color: var(--color-parchment);">Make Waves</h1>
+      </div>
+
       {Content && <Content />}
+      
     </main>
+
     <Footer />
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
     <script>
