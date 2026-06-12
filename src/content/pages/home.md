@@ -1,10 +1,6 @@
 ---
 title: Home
 ---
-## Welcome to Marina Bay Media
-
-Marina Bay Media is on a mission to help emerging businesses and entrepreneurs attract more clients and customers. If you’re stressed out about your campaigns, we’re here to help you find the best mix of tools, channels, and tactics to win your market.
-
 What sets us apart is integrity and originality. **Inexperienced and inattentive agencies and amateur contractors can cost you thousands of dollars.** We take the time to sit down with you to learn exactly what problems need solving, how to speak to the buyer, and how to stand out from the crowd.
 
 ### When do you need a marketing expert?
