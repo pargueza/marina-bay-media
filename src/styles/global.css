@@ -6,102 +6,175 @@
 
 @import './tokens.css';
 
-:root {
-	--accent:              #00855A;  /* Spanish Emerald — primary accent */
-	--accent-dark:         #006B3C;  /* Deep Emerald — darker variant */
-	--accent-teal:         #006874;  /* Teal — secondary accent */
-	--accent-teal-light:   #00939E;  /* Light Teal — hover states */
+/* ============================================
+   COLORS
+   ============================================ */
 
-	--black: 15, 18, 25;
-	--gray: 96, 115, 159;
-	--gray-light: 229, 233, 240;
-	--gray-dark: 34, 41, 57;
-	--gray-gradient: rgba(var(--gray-light), 50%), #fff;
-	--box-shadow:
-		0 2px 6px rgba(var(--gray), 25%), 0 8px 24px rgba(var(--gray), 33%),
-		0 14px 32px rgba(var(--gray), 33%);
+:root {
+  --color-inkwell:       #0D0D0B;  /* nav, headlines */
+  --color-parchment:     #FAF7F2;  /* page background */
+  --color-teal-deep:     #004D5C;  /* dark teal — footer, dark surfaces */
+  --color-teal:          #006874;  /* primary accent — buttons, links */
+  --color-teal-light:    #00939E;  /* hover states, highlights */
+  --color-emerald-deep:  #006B3C;  /* dark emerald — bold CTAs, alerts */
+  --color-emerald:       #00855A;  /* spanish emerald — special callouts */
+  --color-emerald-light: #00A86B;  /* bright emerald — icon accents, glows */
+  --color-aged-silver:   #A8A49C;  /* borders, muted text, placeholder text */
+  --color-washi:         #E8E0D4;  /* card backgrounds, input fields */
 }
+
+/* ============================================
+   VARIABLES
+   ============================================ */
+
+:root {
+  --accent:            var(--color-emerald);       /* primary accent */
+  --accent-dark:       var(--color-emerald-deep);  /* darker variant */
+  --accent-teal:       var(--color-teal);          /* secondary accent */
+  --accent-teal-light: var(--color-teal-light);    /* hover states */
+
+  --black: 15, 18, 25;
+  --gray: 96, 115, 159;
+  --gray-light: 229, 233, 240;
+  --gray-dark: 34, 41, 57;
+  --gray-gradient: rgba(var(--gray-light), 50%), #fff;
+  --box-shadow:
+    0 2px 6px rgba(var(--gray), 25%),
+    0 8px 24px rgba(var(--gray), 33%),
+    0 14px 32px rgba(var(--gray), 33%);
+}
+
+/* ============================================
+   ACCESSIBILITY
+   ============================================ */
+
+.sr-only {
+  border: 0;
+  padding: 0;
+  margin: 0;
+  position: absolute !important;
+  height: 1px;
+  width: 1px;
+  overflow: hidden;
+  /* IE6, IE7 - a 0 height clip, off to the bottom right of the visible 1px box */
+  clip: rect(1px 1px 1px 1px);
+  /* maybe deprecated but we need to support legacy browsers */
+  clip: rect(1px, 1px, 1px, 1px);
+  /* modern browsers, clip-path works inwards from each corner */
+  clip-path: inset(50%);
+  /* added line to stop words getting smushed together (as they go onto separate lines and some screen readers do not understand line feeds as a space */
+  white-space: nowrap;
+}
+
+/* ============================================
+   BASE
+   ============================================ */
 
 html {
   background-color: var(--color-parchment);
 }
 
 body {
-	font-family: var(--font-body);
-	margin: 0;
-	padding: 0;
-	text-align: left;
-	background-size: 100% 600px;
-	word-wrap: break-word;
-	overflow-wrap: break-word;
-	color: rgb(var(--gray-dark));
-	font-size: 14px;
-	line-height: 1.7;
+  font-family: var(--font-body);
+  margin: 0;
+  padding: 0;
+  text-align: left;
+  background-size: 100% 600px;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  color: rgb(var(--gray-dark));
+  font-size: 14px;
+  line-height: 1.7;
 }
+
 main {
-	width: 720px;
-	max-width: calc(100% - 2em);
-	margin: auto;
-	padding: 3em 1em;
-}
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-	font-family: var(--font-display);
-	margin: 0 0 0.5rem 0;
-	color: rgb(var(--black));
-	line-height: 1.2;
-}
-h1 {
-	font-size: 1.25em;
+  width: 720px;
+  max-width: calc(100% - 2em);
+  margin: auto;
+  padding: 3em 1em;
 }
 
-h2 {
-	font-size: 1.25em;
-	color: var(--color-teal-deep);
+/* ============================================
+   BLOCKQUOTE & HR
+   ============================================ */
+
+blockquote {
+  border-left: 4px solid var(--accent);
+  padding: 0 0 0 20px;
+  margin: 0;
+  font-size: 1.15em;
 }
 
-h3 {
-	font-size: 1.1em;
-}
-h4 {
-	font-size: 1em;
-}
-h5 {
-	font-size: 1em;
+hr {
+  border: none;
+  border-top: 1px solid rgb(var(--gray-light));
 }
 
-strong,
-b {
-	font-weight: 700;
+/* ============================================
+   BLOG
+   ============================================ */
+
+/* Remove date from blogs */
+.date {
+  display: none;
 }
-a {
-	color: var(--accent);
+
+/* ============================================
+   CODE & PRE
+   ============================================ */
+
+code {
+  padding: 2px 5px;
+  background-color: rgb(var(--gray-light));
+  border-radius: 2px;
 }
-a:hover {
-	color: var(--accent);
+
+pre {
+  padding: 1.5em;
+  border-radius: 8px;
 }
-p {
-	margin-bottom: 1em;
+
+pre > code {
+  all: unset;
 }
-.prose p {
-	margin-bottom: 2em;
-}
-textarea {
-	width: 100%;
-	font-size: 14px;
-}
+
+/* ============================================
+   FORMS
+   ============================================ */
+
 input {
-	font-size: 14px;
-}
-table {
-	width: 100%;
+  font-size: 14px;
 }
 
-/* LOGO STYLES */
+table {
+  width: 100%;
+}
+
+textarea {
+  width: 100%;
+  font-size: 14px;
+}
+
+/* ============================================
+   IMAGES
+   ============================================ */
+
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+/* ============================================
+   LOGO
+   ============================================ */
+
+.footer-logo img {
+  display: inline-block;
+  width: 20em;
+  height: auto;
+}
+
 .navbar-logo {
   display: flex;
   align-items: center;
@@ -115,79 +188,99 @@ table {
 }
 
 @media (max-width: 720px) {
+  .footer-logo img {
+    width: 20em;
+  }
+
   .navbar-logo img {
     width: 5em;
   }
 }
 
+/* ============================================
+   TYPOGRAPHY
+   ============================================ */
 
-.footer-logo img {
-  display: inline-block;
-  width: 20em;
-  height: auto;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-display);
+  margin: 0 0 0.5rem 0;
+  color: rgb(var(--black));
+  line-height: 1.2;
 }
 
-@media (max-width: 720px) {
-  .footer-logo img {
-    width: 20em;
+h1 {
+  font-size: 1.25em;
+}
+
+h2 {
+  font-size: 1.25em;
+  color: var(--color-teal-deep);
+}
+
+h3 {
+  font-size: 1.1em;
+}
+
+h4 {
+  font-size: 1em;
+}
+
+h5 {
+  font-size: 1em;
+}
+
+p {
+  margin-bottom: 1em;
+}
+
+.prose p {
+  margin-bottom: 2em;
+}
+
+strong,
+b {
+  font-weight: 700;
+}
+
+a {
+  color: var(--accent);
+}
+
+a:hover {
+  color: var(--accent);
+}
+
+/* ============================================
+   UTILITIES
+   ============================================ */
+
+.text-huge {
+  text-align: center;
+  font-size: 4em;
+  line-height: 1.1;
+}
+
+@media (min-width: 768px) {
+  .text-huge {
+    font-size: 10em;
   }
 }
 
-/* Remove date from blogs */
-.date {
-	display: none;
-}
+/* ============================================
+   RESPONSIVE
+   ============================================ */
 
-img {
-	max-width: 100%;
-	height: auto;
-	border-radius: 8px;
-}
-code {
-	padding: 2px 5px;
-	background-color: rgb(var(--gray-light));
-	border-radius: 2px;
-}
-pre {
-	padding: 1.5em;
-	border-radius: 8px;
-}
-pre > code {
-	all: unset;
-}
-blockquote {
-	border-left: 4px solid var(--accent);
-	padding: 0 0 0 20px;
-	margin: 0;
-	font-size: 1.15em;
-}
-hr {
-	border: none;
-	border-top: 1px solid rgb(var(--gray-light));
-}
 @media (max-width: 720px) {
-	body {
-		font-size: 14px;
-	}
-	main {
-		padding: 1em;
-	}
-}
+  body {
+    font-size: 14px;
+  }
 
-.sr-only {
-	border: 0;
-	padding: 0;
-	margin: 0;
-	position: absolute !important;
-	height: 1px;
-	width: 1px;
-	overflow: hidden;
-	/* IE6, IE7 - a 0 height clip, off to the bottom right of the visible 1px box */
-	clip: rect(1px 1px 1px 1px);
-	/* maybe deprecated but we need to support legacy browsers */
-	clip: rect(1px, 1px, 1px, 1px);
-	/* modern browsers, clip-path works inwards from each corner */
-	clip-path: inset(50%);
-	/* added line to stop words getting smushed together (as they go onto separate lines and some screen readers do not understand line feeds as a space */
-	white-space: nowrap;
+  main {
+    padding: 1em;
+  }
 }
