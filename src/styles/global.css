@@ -214,20 +214,20 @@ h6 {
 }
 
 h1 {
-  font-size: 1.5em;
+  font-size: clamp(1.3em, 1.1em + 1vw, 1.5em);
 }
 
 h2 {
-  font-size: 1.5em;
+  font-size: clamp(1.3em, 1.1em + 1vw, 1.5em);
   color: var(--color-teal-deep);
 }
 
 h3 {
-  font-size: 1.25em;
+  font-size: clamp(1.1em, 1em + 0.6vw, 1.25em);
 }
 
 h4 {
-  font-size: 1.25em;
+  font-size: clamp(1.1em, 1em + 0.6vw, 1.25em);
 }
 
 h5 {
@@ -261,14 +261,11 @@ a:hover {
 
 .text-huge {
   text-align: center;
-  font-size: 4em;
+  /* scales smoothly from ~3rem on phones to 10rem on wide screens,
+     replacing the old hard jump from 4em to 10em at 768px */
+  font-size: clamp(3rem, 11vw, 10rem);
   line-height: 1.1;
-}
-
-@media (min-width: 768px) {
-  .text-huge {
-    font-size: 10em;
-  }
+  overflow-wrap: break-word;
 }
 
 /* ============================================
@@ -291,4 +288,91 @@ a:hover {
 
 .no-top-padding {
   padding-top: 0;
+}
+/* ============================================
+   BUTTONS — mobile responsive
+   ============================================ */
+
+.btn,
+button:not(.hamburger),
+input[type='submit'] {
+  display: inline-block;
+  font-family: var(--font-body);
+  font-weight: 400;
+  font-size: 1rem;
+  color: var(--color-parchment);
+  background-color: var(--color-teal);
+  border: none;
+  border-radius: 6px;
+  padding: 0.7em 1.5em;
+  min-height: 44px; /* comfortable tap target */
+  cursor: pointer;
+  text-decoration: none;
+  text-align: center;
+  transition: background-color 0.2s ease;
+}
+
+.btn:hover,
+button:not(.hamburger):hover,
+input[type='submit']:hover {
+  background-color: var(--color-teal-light);
+  color: var(--color-parchment);
+}
+
+@media (max-width: 600px) {
+  /* full-width, easy-to-tap buttons on phones */
+  .btn,
+  button:not(.hamburger),
+  input[type='submit'] {
+    display: block;
+    width: 100%;
+    padding: 0.9em 1em;
+    box-sizing: border-box;
+  }
+}
+
+/* ============================================
+   SCROLL REVEAL — slight text movement on scroll
+   ============================================ */
+
+/* fade the whole page content in on load
+   (the .fade-up class was already used on the homepage
+   but never defined — now it works) */
+.fade-up {
+  animation: fadeUp 0.7s ease-out both;
+}
+
+@keyframes fadeUp {
+  from {
+    opacity: 0;
+    transform: translateY(14px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* per-element reveal, only active when JS adds .js to <html>,
+   so nothing is hidden if JavaScript fails or is disabled */
+html.js .reveal {
+  opacity: 0;
+  transform: translateY(14px);
+  transition: opacity 0.6s ease-out, transform 0.6s ease-out;
+}
+
+html.js .reveal.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .fade-up {
+    animation: none;
+  }
+  html.js .reveal {
+    opacity: 1 !important;
+    transform: none !important;
+    transition: none !important;
+  }
 }

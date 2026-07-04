@@ -2,8 +2,7 @@
    TEASE — Design Tokens
    ============================================ */
 
-/* Google Fonts */
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=Jost:wght@300;400;500&display=swap');
+/* Fonts are loaded via <link> in BaseHead.astro (faster than CSS @import) */
 
 /* ============================================
    COLORS
@@ -27,8 +26,8 @@
    ============================================ */
 
 :root {
-  --font-display: 'Fraunces', Georgia, serif; /* headlines, logo, hero text, pull quotes */
-  --font-body:    'Inter', system-ui, sans-serif; /* nav, body copy, labels, buttons, captions */
+  --font-display: 'Playfair Display', Georgia, serif; /* headlines, logo, hero text, pull quotes */
+  --font-body:    'Jost', system-ui, sans-serif; /* nav, body copy, labels, buttons, captions */
 }
 
 /* Display — headlines, logo, hero text */

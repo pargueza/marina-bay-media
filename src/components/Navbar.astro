@@ -39,11 +39,15 @@
   .hamburger {
     display: none;
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
     gap: 5px;
     background: none;
     border: none;
     cursor: pointer;
     padding: 4px;
+    min-width: 44px;  /* comfortable tap target */
+    min-height: 44px;
     z-index: 100;
   }
 
@@ -94,6 +98,17 @@
 
     .nav-links.open {
       transform: translateX(0);
+    }
+
+    /* bigger, easier-to-tap menu links on mobile */
+    .nav-links li {
+      width: 100%;
+      text-align: center;
+    }
+    .nav-links li a {
+      display: block;
+      padding: 0.9em 1em;
+      font-size: 1.1rem;
     }
   }
 </style>
