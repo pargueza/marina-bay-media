@@ -399,7 +399,6 @@ html.js .reveal.is-visible {
 /* safety net: no paragraph line ever stretches
    beyond a comfortable reading width */
 main p,
-main li,
 main blockquote {
   max-width: 70ch;
 }
