@@ -17,7 +17,7 @@ const { Content } = about ? await render(about) : { Content: null };
     <Header />
     <main>
       <!-- Row: Full Width Row -->
-      <div style="width: 100vw; margin-left: calc(-50vw + 50%); padding: 1em; text-align: center;">
+      <div class="full-bleed" style="text-align: center;">
         <h1>About Marina Bay Media:</h1>
         <p>
           Marina Bay Media was founded to help local business owners leverage the power of creative at a reasonable price.
@@ -29,18 +29,15 @@ const { Content } = about ? await render(about) : { Content: null };
       </div>
 
       <!-- Row: Full Width Row -->
-      <div style="width: 100vw; margin-left: calc(-50vw + 50%); background-color: var(--color-teal-deep); color: var(--color-parchment); padding: 1em; text-align: center;">
+      <div class="full-bleed" style="background-color: var(--color-teal-deep); color: var(--color-parchment); text-align: center;">
         <h2 style="color: var(--color-parchment);">What We Do:</h2>
         <p>
-          Brand Strategy, Campaign Strategy, Canvassing, Community Outreach, Content Creation, Copywriting, 
-          <br>Email Marketing, Event Marketing, Google Ads / Paid Search, Graphic Design, Local SEO, 
-          <br>Performance Reporting / Analytics, Public Relations, Reputation Management, SMS Marketing, 
-          Social Media, Volunteer Coordination, Website Design
+          Brand Strategy, Campaign Strategy, Canvassing, Community Outreach, Content Creation, Copywriting, Email Marketing, Event Marketing, Google Ads / Paid Search, Graphic Design, Local SEO, Performance Reporting / Analytics, Public Relations, Reputation Management, SMS Marketing, Social Media, Volunteer Coordination, Website Design
         </p>
       </div>
       
       <!-- Row: Team Section -->
-      <div style="width: 100vw; margin-left: calc(-50vw + 50%); padding: 1em; text-align: center;">
+      <div class="full-bleed" style="text-align: center;">
         <h2>Our Team</h2>
 
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
